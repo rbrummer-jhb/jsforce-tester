@@ -14,8 +14,8 @@ const parseString = require('xml2js').parseString;
 main()
 
 async function main () {
-	dotenv.config();
-
+console.log(username);
+console.log(password);
 	try {
 		await conn.login(username, password);
 	} catch (err) {
