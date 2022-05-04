@@ -1,6 +1,6 @@
 # Introduction
 
-Very lightweight app for viewing the xml and/or json representation of Salesforce metadata retrieved using the Metadata API. Writes the xml to the local directory. Reads back the xml and uses the xml2js package to transform it into a JavaScript object.
+Very lightweight app for viewing the xml and/or json representation of Salesforce metadata retrieved using the jsforce Metadata API interface. Writes the xml to the local directory. Reads back the xml and uses the xml2js package to transform it into a JavaScript object.
 
 # Setup
 
