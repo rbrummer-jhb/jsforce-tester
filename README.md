@@ -5,11 +5,22 @@ Very lightweight app for viewing the xml and/or json representation of Salesforc
 # Setup
 
 1. Fork the repository.
+
 2. Clone the forked repository to your local drive.
+
 3. Open the repo in VS Code
-4. Update the .env file with your Salesforce credentials. Note the required "!" in the PASSWORD.
+
+4. Add a .env file with your Salesforce credentials. Note the required "!" in the PASSWORD.
 	- for this step you need your Salesforce username, password, and security token
+
+	```dotenv
+	# Salesforce Credentials
+	# Note the required "!" in PASSWORD
+	SFUSER=mySalesforceUsername
+	PASSWORD=mySalesforcePassword!mySalesforceSecurityToken
+	```
 5. Build the project using 'npm install'
+
 6. Run the project using 'node index.js'
 
 # Customizing
