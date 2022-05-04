@@ -1,0 +1,20 @@
+{
+  "name": "jsforce-tester",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "decompress": "^4.2.1",
+    "dotenv": "^16.0.0",
+    "jsforce": "^1.10.1",
+    "lodash": "^4.17.21",
+    "tree-model": "1.0.7",
+    "xml2js": "^0.4.23"
+  }
+}
