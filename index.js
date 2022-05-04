@@ -8,8 +8,6 @@ const Bluebird = require('bluebird');
 const conn = new jsforce.Connection({ version: '52.0' });
 const fs = require('fs');
 const parseString = require('xml2js').parseString;
-// const xmlParser = new xml2js.Parser()
-// const decompress = require('decompress')
 
 main()
 
