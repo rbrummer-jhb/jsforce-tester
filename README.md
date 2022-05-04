@@ -10,8 +10,8 @@ Very lightweight app for viewing the xml and/or json representation of Salesforc
 
 3. Open the repo in VS Code
 
-4. Add a .env file with your Salesforce credentials. Note the required "!" in the PASSWORD.
-	- for this step you need your Salesforce username, password, and security token
+4. Add a .env file with your Salesforce credentials. For this step you need your Salesforce username, password, and security token.
+	- 
 
 	```dotenv
 	# Salesforce Credentials
