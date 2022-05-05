@@ -38,7 +38,9 @@ Then, using the CustomLabel code here as a template, create methods to get the s
 
 ## Summary Info
 
-Here is example CustomLabel summary info from my dev org
+Here is example CustomLabel summary info from my dev org. There are seven items: two that I created and five from the Profile2PermSet managed package.  
+  
+Take special note of the filename property; here it's telling us that all CustomLabel xml will be in a single file "CustomLabels.labels". This is **not always the case**; you must understand the inbound file structure.
 
 ```javascript
 [
