@@ -168,7 +168,7 @@ Here is the xml that is returned when I ask for the "thank_you" and "greeting" m
 
 ## JavaScript Object (JSON)
 
-And here is the JavaScript object that you'll be parsing in order to create/update MongoDB entries.
+And here is the JavaScript object that you'll be parsing in order to create/update MongoDB entries.  
 **IMPORTANT:** Note that when xml2js transforms the data, almost everything will be presented as an array, even if it's defined to be a single item -- very important for parsing.
 
 ```json
