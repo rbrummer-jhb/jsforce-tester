@@ -40,7 +40,7 @@ Then, using the CustomLabel code here as a template, create methods to get the s
 
 Here is example CustomLabel summary info from my dev org
 
-```json
+```javascript
 [
   {
     createdById: '0050a00000JEU37AAH',
